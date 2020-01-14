@@ -24,3 +24,7 @@ pip install pandas
 ~~~~
 pip install matplotlib
 ~~~~
+### Install Scipy
+~~~~
+pip install scipy
+~~~~

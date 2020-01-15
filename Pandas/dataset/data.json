@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sharif",
+    "Age": 26,
+    "Blood_Group": "B+",
+    "Nationality": "Bangladeshi"
+  },
+  {
+    "name": "Imran",
+    "Age": 25,
+    "Blood_Group": "B+",
+    "Nationality": "Bangladeshi"
+  },
+  {
+    "name": "Akib",
+    "Age": 24,
+    "Blood_Group": "AB+",
+    "Nationality": "Bangladeshi"
+  },
+  {
+    "name": "Hanif",
+    "Age": 26,
+    "Blood_Group": "A+",
+    "Nationality": "Bangladeshi"
+  }
+]
+

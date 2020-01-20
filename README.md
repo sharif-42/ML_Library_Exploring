@@ -1,6 +1,7 @@
 # Machine Learning Library Exploring
 
-This is my practice session. Here I put my all practice code and notes for my future work.
+This is my practice session. Here I put my all practice code all about Machine Learning Libraries
+and write notes for my future work.
 By this i can track myself what I have learned and what to learn, that help me take future decisions.
 
 ### Installing Jupyter Notebook Using PIP
